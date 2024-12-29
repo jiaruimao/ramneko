@@ -1,0 +1,40 @@
+baseURL: "https://github.com/jiaruimao/ramneko/"
+languageCode: en-us
+theme: PaperMod
+enableEmoji: true
+
+params:
+  homeInfoParams:
+    Title: 猫◾️汤屋
+    Content: Though much is taken, much abides.
+
+  socialIcons: # optional
+    - name: "<微博>"
+      url: "<https://weibo.com/u/3337374412>"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+languages:
+  en:
+    languageName: "english"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+
+    menu:
+      main:
+        - name: 目录
+          url: archives
+          weight: 5
+        - name: 成分查询
+          url: search/
+          weight: 10
+        - name: 配料表
+          url: tags/
+          weight: 10
