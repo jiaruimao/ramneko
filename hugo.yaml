@@ -18,23 +18,14 @@ outputs:
     - RSS
     - JSON # necessary for search
 
-languages:
-  en:
-    languageName: "english"
-    weight: 1
-    taxonomies:
-      category: categories
-      tag: tags
-      series: series
-
-    menu:
-      main:
-        - name: 目录
-          url: archives
-          weight: 5
-        - name: 成分查询
-          url: search/
-          weight: 10
-        - name: 配料表
-          url: tags/
-          weight: 10
+menu:
+  main:
+    - name: 目录
+      url: archives
+      weight: 5
+     - name: 成分查询
+      url: search/
+      weight: 10
+    - name: 配料表
+      url: tags/
+      weight: 10
