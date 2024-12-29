@@ -23,7 +23,7 @@ menu:
     - name: 目录
       url: archives
       weight: 5
-     - name: 成分查询
+    - name: 成分查询
       url: search/
       weight: 10
     - name: 配料表
