@@ -1,7 +1,7 @@
 +++
-date = '2024-12-29T00:24:52-05:00'
+date = "2024-12-29T00:24:52-05:00"
 draft = false
-title = '基本JK演绎法'
+title = "基本JK演绎法"
 tags = ["General Audiences", "⚾️"]
 +++
 
