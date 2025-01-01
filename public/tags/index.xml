@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🦸 on </title>
-    <link>https://ramneko.xyz/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in 🦸 on </description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Dec 2024 00:24:52 -0500</lastBuildDate>
-    <atom:link href="https://ramneko.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>砂糖人生理学</title>
-      <link>https://ramneko.xyz/kamen/%E5%BB%89%E4%BB%B7%E6%AD%A6%E4%BE%A0%E7%89%87/</link>
+      <link>http://localhost:1313/kamen/%E5%BB%89%E4%BB%B7%E6%AD%A6%E4%BE%A0%E7%89%87/</link>
       <pubDate>Sun, 29 Dec 2024 00:24:52 -0500</pubDate>
-      <guid>https://ramneko.xyz/kamen/%E5%BB%89%E4%BB%B7%E6%AD%A6%E4%BE%A0%E7%89%87/</guid>
+      <guid>http://localhost:1313/kamen/%E5%BB%89%E4%BB%B7%E6%AD%A6%E4%BE%A0%E7%89%87/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;summary：因为看到豆瓣帖子说saber好武侠所以有感而发的片段，的确好武侠！建设一下&lt;/p&gt;
 &lt;/blockquote&gt;

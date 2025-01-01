@@ -4,6 +4,7 @@ theme: PaperMod
 enableEmoji: true
 
 params:
+  showAllSections : true
   homeInfoParams:
     Title: 猫◾️汤屋
     Content: Though much is taken, much abides.
@@ -12,6 +13,7 @@ params:
     - name: "<微博>"
       url: "<https://weibo.com/u/3337374412>"
 
+  
 outputs:
   home:
     - HTML
@@ -21,11 +23,15 @@ outputs:
 menu:
   main:
     - name: 目录
-      url: archives
+      url: /archives/
       weight: 5
     - name: 成分查询
-      url: search/
+      url: /search/
       weight: 10
     - name: 配料表
       url: tags/
-      weight: 10
+      weight: 5
+    - name: OC
+      url: /oc/
+    - name: 三次元
+      url: /3Dimension/

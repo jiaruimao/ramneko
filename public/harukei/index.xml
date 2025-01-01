@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Harukeis on </title>
-    <link>https://ramneko.xyz/harukei/</link>
+    <link>http://localhost:1313/harukei/</link>
     <description>Recent content in Harukeis on </description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Dec 2024 00:24:52 -0500</lastBuildDate>
-    <atom:link href="https://ramneko.xyz/harukei/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/harukei/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>二五年间营业小记</title>
-      <link>https://ramneko.xyz/harukei/%E4%BA%8C%E4%BA%94%E5%B9%B4%E9%97%B4%E8%90%A5%E4%B8%9A%E5%B0%8F%E8%AE%B0/</link>
+      <link>http://localhost:1313/harukei/%E4%BA%8C%E4%BA%94%E5%B9%B4%E9%97%B4%E8%90%A5%E4%B8%9A%E5%B0%8F%E8%AE%B0/</link>
       <pubDate>Sun, 29 Dec 2024 00:24:52 -0500</pubDate>
-      <guid>https://ramneko.xyz/harukei/%E4%BA%8C%E4%BA%94%E5%B9%B4%E9%97%B4%E8%90%A5%E4%B8%9A%E5%B0%8F%E8%AE%B0/</guid>
+      <guid>http://localhost:1313/harukei/%E4%BA%8C%E4%BA%94%E5%B9%B4%E9%97%B4%E8%90%A5%E4%B8%9A%E5%B0%8F%E8%AE%B0/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;summary：世上有很多事情更重要，胜过欲望的风暴，爱的功勋。&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>基本JK演绎法</title>
-      <link>https://ramneko.xyz/harukei/%E5%9F%BA%E6%9C%ACjk%E6%BC%94%E7%BB%8E%E6%B3%95/</link>
+      <link>http://localhost:1313/harukei/%E5%9F%BA%E6%9C%ACjk%E6%BC%94%E7%BB%8E%E6%B3%95/</link>
       <pubDate>Sun, 29 Dec 2024 00:24:52 -0500</pubDate>
-      <guid>https://ramneko.xyz/harukei/%E5%9F%BA%E6%9C%ACjk%E6%BC%94%E7%BB%8E%E6%B3%95/</guid>
+      <guid>http://localhost:1313/harukei/%E5%9F%BA%E6%9C%ACjk%E6%BC%94%E7%BB%8E%E6%B3%95/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;summary：初中三年级，要圭爱上了电视里惊鸿一瞥的废萌JK百合番。他不知道，半年后，释放天性会叫他主动在这部神秘影片中领取一个角色：女主角&amp;hellip;&amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -94,9 +94,9 @@
     </item>
     <item>
       <title>轻轻章鱼亲</title>
-      <link>https://ramneko.xyz/harukei/%E8%BD%BB%E8%BD%BB%E7%AB%A0%E9%B1%BC%E4%BA%B2/</link>
+      <link>http://localhost:1313/harukei/%E8%BD%BB%E8%BD%BB%E7%AB%A0%E9%B1%BC%E4%BA%B2/</link>
       <pubDate>Sun, 29 Dec 2024 00:24:52 -0500</pubDate>
-      <guid>https://ramneko.xyz/harukei/%E8%BD%BB%E8%BD%BB%E7%AB%A0%E9%B1%BC%E4%BA%B2/</guid>
+      <guid>http://localhost:1313/harukei/%E8%BD%BB%E8%BD%BB%E7%AB%A0%E9%B1%BC%E4%BA%B2/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;summary：世界上最小的鱼缸，只要两个字组成。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -170,9 +170,9 @@
     </item>
     <item>
       <title>酥脆水母心</title>
-      <link>https://ramneko.xyz/harukei/%E9%85%A5%E8%84%86%E6%B0%B4%E6%AF%8D%E5%BF%83/</link>
+      <link>http://localhost:1313/harukei/%E9%85%A5%E8%84%86%E6%B0%B4%E6%AF%8D%E5%BF%83/</link>
       <pubDate>Sun, 29 Dec 2024 00:24:52 -0500</pubDate>
-      <guid>https://ramneko.xyz/harukei/%E9%85%A5%E8%84%86%E6%B0%B4%E6%AF%8D%E5%BF%83/</guid>
+      <guid>http://localhost:1313/harukei/%E9%85%A5%E8%84%86%E6%B0%B4%E6%AF%8D%E5%BF%83/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;summary：关于SCP-1210在JP第四分部的收容状态以及社会化可行性报告&lt;/p&gt;
 &lt;/blockquote&gt;</description>
