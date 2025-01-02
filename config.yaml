@@ -5,6 +5,7 @@ enableEmoji: true
 
 params:
   showAllSections : true
+  ShowBreadCrumbs: true
   homeInfoParams:
     Title: 猫◾️汤屋
     Content: Though much is taken, much abides.
@@ -12,7 +13,11 @@ params:
   socialIcons: # optional
     - name: "<微博>"
       url: "<https://weibo.com/u/3337374412>"
-
+  mainSections:
+    - 3Dimension
+    - harukei
+    - kamen
+    - oc
   
 outputs:
   home:
@@ -20,16 +25,20 @@ outputs:
     - RSS
     - JSON # necessary for search
 
+taxonomies:
+          category: categories
+          tag: tags
+          series: series
 menu:
   main:
     - name: 目录
-      url: /archives/
+      url: archives
       weight: 5
     - name: 成分查询
       url: /search/
       weight: 10
     - name: 配料表
-      url: tags/
+      url: tags
       weight: 5
     - name: OC
       url: /oc/
